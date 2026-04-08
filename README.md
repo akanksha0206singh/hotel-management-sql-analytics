@@ -23,6 +23,8 @@ queries.sql – Contains analytical queries used to generate business insights f
 
 triggers.sql – Includes SQL triggers used to automate updates such as room status changes.
 
+hotel_management_full_script.sql – full project script.
+
 ## Key Analysis Performed
 
 * Revenue analysis by hotel and room type
